@@ -1,3 +1,5 @@
+"""This module contains test classes for the booty."""
+
 import contextlib
 import unittest
 from io import StringIO
